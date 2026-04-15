@@ -4,7 +4,7 @@ This repository contains a full-stack food delivery application.
 
 ## Structure
 
-- `backend/` - Node.js backend API and database utilities
+- `backend/` - Fastapi backend API and database utilities
 - `foodie-feed/` - Frontend application built with Vite, React, and TypeScript
 
 ## Usage
@@ -13,8 +13,7 @@ This repository contains a full-stack food delivery application.
 
 ```bash
 cd backend
-npm install
-npm start
+python main.py
 ```
 
 ### Frontend
